@@ -14,6 +14,7 @@
 		E0B3B88328BA6F77005D09D0 /* miABC_9_22.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E0B3B88128BA6F77005D09D0 /* miABC_9_22.xcdatamodeld */; };
 		E0B3B88528BA6F79005D09D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0B3B88428BA6F79005D09D0 /* Assets.xcassets */; };
 		E0B3B88828BA6F79005D09D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0B3B88628BA6F79005D09D0 /* LaunchScreen.storyboard */; };
+		E0B3B89028BA8889005D09D0 /* CollectionVewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0B3B88F28BA8889005D09D0 /* CollectionVewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E0B3B88428BA6F79005D09D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E0B3B88728BA6F79005D09D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E0B3B88928BA6F79005D09D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0B3B88F28BA8889005D09D0 /* CollectionVewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionVewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				E0B3B87828BA6F77005D09D0 /* AppDelegate.swift */,
 				E0B3B87A28BA6F77005D09D0 /* SceneDelegate.swift */,
 				E0B3B87C28BA6F77005D09D0 /* ViewController.swift */,
+				E0B3B88F28BA8889005D09D0 /* CollectionVewCell.swift */,
 				E0B3B87E28BA6F77005D09D0 /* Main.storyboard */,
 				E0B3B88428BA6F79005D09D0 /* Assets.xcassets */,
 				E0B3B88628BA6F79005D09D0 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				E0B3B87928BA6F77005D09D0 /* AppDelegate.swift in Sources */,
 				E0B3B88328BA6F77005D09D0 /* miABC_9_22.xcdatamodeld in Sources */,
 				E0B3B87B28BA6F77005D09D0 /* SceneDelegate.swift in Sources */,
+				E0B3B89028BA8889005D09D0 /* CollectionVewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
